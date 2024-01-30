@@ -52,7 +52,7 @@ function App() {
     <div className="App">
      
       <div className="calculator">
-      <h1>JavaScript Calculator by Junaid</h1>
+      <h1>React.js Calculator by Junaid</h1>
         <div className="display" id="display">
           {calc || "0"}
         </div>
